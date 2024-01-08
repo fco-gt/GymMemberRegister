@@ -18,8 +18,6 @@ public class Mian {
      */
     public static void main(String[] args) {
         
-        // ESTE ES MI CAMBIO y este el mio y este otro tambien  aslkjfaksjlfljaslfas faslkfjaslkfjasjlfs faskfjaskjlfasl pero wn asfasfalskjfas fsdlkfjasdfas sapio ql 
-            
         Inicio inicio = new Inicio();
         inicio.setExtendedState(MAXIMIZED_BOTH);
         inicio.setVisible(true);
